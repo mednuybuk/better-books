@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400;1,700&display=swap');
 
+
 body {
     margin: 0;
     padding: 0;
@@ -25,3 +26,75 @@ nav {
     text-decoration: none;
     color: rgb(59, 39, 11);
  }
+
+
+ 
+.tyy {
+    width: ;
+    height: ;
+    margin: ;
+    padding: ;
+  }
+ 
+  .opp {
+  width: 50vw;
+  height: 126vh;
+  margin: 0px;
+  padding: 0px;
+  }
+ 
+  .naa{
+ 
+  }
+ 
+  .yy {
+ 
+  }
+ 
+  .mqq {
+ 
+  }
+
+
+main {
+    display: flex;
+    justify-content: space-between;
+   
+}  
+.imfo {
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    flex-direction: column;
+    height: 60%;
+}
+
+
+/* img {
+    width: 340px;
+    height: 340px;
+
+
+} */
+
+
+.ert {
+    display: flex;
+    justify-content: space-evenly;
+    width: 100vw;
+    /* height: 680px; */
+    background-color: #E9ADC89E;
+
+
+}
+
+
+.u {
+ display: flex;
+ justify-content: flex-end;
+ flex-direction: column;
+ width: 15vw;
+
+
+}
+
